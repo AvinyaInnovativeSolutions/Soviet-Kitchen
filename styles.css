@@ -1,0 +1,32 @@
+#header {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.body {
+    background-image: url("https://th.bing.com/th/id/OIP.gpo6kOiehswo9i3G-5NDLgHaNK?w=187&h=333&c=7&r=0&o=5&dpr=1.5&pid=1.7");
+}
+
+.card_header {
+    color: blue;
+    text-align: center;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    padding-left: 40%;
+    justify-content: center;
+}
+
+.detail_card {
+    margin-bottom: 20px;
+    border-radius: 2%;
+    text-align: justify;
+    position: relative;
+    background-color: rgb(228, 105, 48);
+}
+
+.footer {
+    background-color: aquamarine;
+}
